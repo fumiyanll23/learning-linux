@@ -4,7 +4,7 @@
 
 |回|日程|場所|テーマ|状態|
 | :---: | :---: | :---: | :---: | :---: |
-|[#00](https://github.com/fumiyanll23/linux-learning/tree/main/00)|2022/09/10(Sat.)</br>13:00-15:00|オンライン|「1 チュートリアル」|実施予定|
+|[#00](https://github.com/fumiyanll23/linux-learning/tree/main/00)|2022/09/10(Sat.)</br>13:00-15:00|オンライン|「1 チュートリアル」～|実施予定|
 
 ## 使用する教材 - Textbook
 
