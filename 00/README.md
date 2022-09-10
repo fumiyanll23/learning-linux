@@ -54,6 +54,6 @@
 
 ## 次回日程の確認 - Confirm the Next Schedule
 
-## 今回の参考文献 -References
+## 今回の参考文献 - References
 
 - [Linux道場入門編/第2回ディストリビューションとは - LPI-JAPAN](https://lpi.or.jp/lpic_all/linux/intro/intro02.shtml)
