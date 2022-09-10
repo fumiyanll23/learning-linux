@@ -6,6 +6,7 @@
 
 - Linux
 - 今後の進め方
+- Envader
 - 次回日程の確認
 
 ## Linux
@@ -51,6 +52,16 @@
 
 [トップページ](https://github.com/fumiyanll23/linux-learning) に記載がある通り，[Envader](https://envader.plus/) に沿って勉強会を進めていく．
 また，必要に応じて『Linux標準教科書』の該当箇所を参照する．
+
+### Envaderとは? - What Is the Envader?
+
+> 日本初の環境構築型のインフラ学習サービスを提供しております。Linuxの学習、データベース、サイバーセキュリティの学習が可能です。
+
+(出典：[株式会社var/事業内容](https://var.co.jp/#business))
+
+### Envaderアカウントの作成 - Create Your Envader Account
+
+[こちら](https://envader.plus/) にて中央の「無料ではじめる」から作成する．
 
 ## 次回日程の確認 - Confirm the Next Schedule
 
