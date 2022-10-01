@@ -5,7 +5,7 @@
 |回|日程|場所|テーマ|状態|
 | :---: | :---: | :---: | :---: | :---: |
 |[#00](https://github.com/fumiyanll23/linux-learning/tree/main/00)|2022/09/18(San.)</br>13:00-15:00|オンライン|「1 チュートリアル」～|実施済|
-|[#01](https://github.com/fumiyanll23/linux-learning/tree/main/01)|2022/10/01(Sat.)</br>13:00-15:00|オンライン|「4 Linuxコマンド [mv/cp編]」～|実施予定|
+|[#01](https://github.com/fumiyanll23/linux-learning/tree/main/01)|2022/10/01(Sat.)</br>13:00-15:00|オンライン|「4 Linuxコマンド [mv/cp編]」～|実施済|
 
 ## 使用する教材 - Textbook
 
