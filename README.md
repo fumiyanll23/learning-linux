@@ -6,7 +6,7 @@
 | :---: | :---: | :---: | :---: | :---: |
 |[#00](https://github.com/fumiyanll23/linux-learning/tree/main/00)|2022/09/18(San.)</br>13:00-15:00|オンライン|「1 チュートリアル」～|実施済|
 |[#01](https://github.com/fumiyanll23/linux-learning/tree/main/01)|2022/10/01(Sat.)</br>13:00-15:00|オンライン|「4 Linuxコマンド [mv/cp編]」～|実施済|
-|[#02](https://github.com/fumiyanll23/linux-learning/tree/main/02)|2022/10/08(Sat.)</br>13:00-15:00|オンライン|「8 Linuxコマンド [echo/リダイレクト/パイプ編]」～|実施予定|
+|[#02](https://github.com/fumiyanll23/linux-learning/tree/main/02)|2022/10/08(Sat.)</br>13:00-15:00|オンライン|「8 Linuxコマンド [echo/リダイレクト/パイプ編]」～|実施済|
 
 ## 使用する教材 - Textbook
 
