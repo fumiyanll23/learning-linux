@@ -9,6 +9,7 @@
 |[#02](https://github.com/fumiyanll23/linux-learning/tree/main/02)|2022/10/08(Sat.)</br>13:00-15:00|オンライン|「8 Linuxコマンド [echo/リダイレクト/パイプ編]」～|実施済|
 |[#03](https://github.com/fumiyanll23/linux-learning/tree/main/03)|2022/10/23(San.)</br>13:00-15:00|オンライン|「10 プロセス管理1」～|実施済|
 |[#04](https://github.com/fumiyanll23/linux-learning/tree/main/04)|2022/10/29(Sat.)</br>13:00-15:00|オンライン|「12 【unameコマンド】OSのバージョン確認方法について」～|実施済|
+|[#05](https://github.com/fumiyanll23/linux-learning/tree/main/05)|2022/11/06(San.)</br>13:00-15:00|オンライン|「15 テキストエディタ「vim」入門」～|実施予定|
 
 ## 使用する教材 - Textbook
 
