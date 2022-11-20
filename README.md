@@ -11,6 +11,7 @@
 |[#04](https://github.com/fumiyanll23/linux-learning/tree/main/04)|2022/10/29(Sat.)</br>13:00-15:00|オンライン|「12 【unameコマンド】OSのバージョン確認方法について」～|実施済|
 |[#05](https://github.com/fumiyanll23/linux-learning/tree/main/05)|2022/11/06(San.)</br>13:00-15:00|オンライン|「15 テキストエディタ「vim」入門」～|実施済|
 |[#06](https://github.com/fumiyanll23/linux-learning/tree/main/06)|2022/11/20(San.)</br>13:00-15:00|オンライン|「17 ファイルとパーミッション/所有者と所有グループ」～|実施済|
+|[#07](https://github.com/fumiyanll23/linux-learning/tree/main/07)|2022/12/03(Sat.)</br>13:00-15:00|オンライン|「19 Linuxコマンド[find編]」～|実施予定|
 
 ## 使用する教材 - Textbook
 
