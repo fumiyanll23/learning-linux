@@ -14,6 +14,7 @@
 |[#07](https://github.com/fumiyanll23/linux-learning/tree/main/07)|2022/12/03(Sat.)</br>13:00-15:00|オンライン|「19 Linuxコマンド[find編]」～|実施済|
 |[#08](https://github.com/fumiyanll23/linux-learning/tree/main/08)|2022/12/10(Sat.)</br>13:00-15:00|オンライン|「21 【Linuxコマンド】基本的なコマンド(sort/uniq/diff編)」～|実施済|
 |[#09](https://github.com/fumiyanll23/linux-learning/tree/main/09)|2022/12/18(San.)</br>13:00-15:00|オンライン|「23 【Linuxコマンド】cutの使い方について/演習問題」～|実施済|
+|[#10](https://github.com/fumiyanll23/linux-learning/tree/main/10)|2023/01/14(Sat.)</br>13:00-15:00|オンライン|「24 【Linuxコマンド】IPアドレス/Macアドレス/ss」～|実施済|
 
 ## 使用する教材 - Textbook
 
