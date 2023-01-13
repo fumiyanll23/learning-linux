@@ -9,6 +9,6 @@
 
 ## 講義と演習 - Lecture and Excercises
 
-[前回の続き (24 【Linuxコマンド】IPアドレス/Macアドレス/ss)](https://envader.plus/course/1/scenario/1021#219) から始める．
+[前回の続き (24 【Linuxコマンド】IPアドレス/Macアドレス/ss)](https://envader.plus/course/16/scenario/1021#219) から始める．
 
 ## 次回日程の確認 - Confirm the Next Schedule
